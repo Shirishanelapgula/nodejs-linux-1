@@ -16,7 +16,8 @@
     "start": "yarn workspace web start"
   },
   "dependencies": {
-    "react-native": "*"
+    "react-native": "*",
+    "pm2": "^5.1.0"
   },
   "devDependencies": {
     "typescript": "3.7.5"
